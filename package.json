@@ -1,0 +1,24 @@
+{
+  "name": "angularplayground",
+  "version": "0.0.1",
+  "description": "Learning environment for Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "SamsonSmithC",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {
+    "@angular/cli": "^13.3.5",
+    "@angular/core": "^13.3.6"
+  }
+}
